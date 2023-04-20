@@ -1,0 +1,12 @@
+body {
+  background-color: black;
+}
+
+.canvas {
+  background-image: radial-gradient(#03090f, #010206);
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+}
